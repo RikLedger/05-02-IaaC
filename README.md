@@ -72,7 +72,7 @@ ansible 2.10.8
 ```
 docker ps,
 ```
-Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virt-homeworks/tree/virt-11/05-virt-02-iaac/src).
+Vagrantfile из лекции и код ansible находятся в [папке](https://github.com/netology-code/virtd-homeworks/tree/main/05-virt-02-iaac/src).
 
 Примечание. Если Vagrant выдаёт ошибку:
 ```
