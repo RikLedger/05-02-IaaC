@@ -60,7 +60,7 @@ ansible 2.10.8
   configured module search path = ['/root/.ansible/plugins/modules', '/usr/share/ansible/plugins/modules']
   ansible python module location = /usr/lib/python3/dist-packages/ansible
   executable location = /usr/bin/ansible
-  python version = 3.10.6 (main, Nov 14 2022, 16:10:14) [GCC 11.3.0]
+  python version = 3.10.6 (main, Nov 16 2023, 16:10:14) [GCC 11.3.0]
 ```
 
 ### Задача 4 
